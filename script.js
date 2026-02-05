@@ -7,4 +7,7 @@ document.getElementById('complete-btn').addEventListener('click', function() {
     // Bonus: Updating the placeholder div to show it worked on the page too
     const display = document.getElementById('message-display');
     display.textContent = "Status: Task finished successfully!";
+
 });
+
+//this is for the buttom to appear
